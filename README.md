@@ -7,7 +7,6 @@
     </section>
     <section>
       <h2>CONTACT</h2>
-      전화번호: 010-3996-0631<br>
       이메일: jeykim2@naver.com
      </section>
      <section>
