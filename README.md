@@ -7,7 +7,7 @@
     </section>
     <section>
       <h2>CONTACT</h2>
-      이메일: jeykim2@naver.com
+      이메일: jeykim2@pukyong.ac.kr
      </section>
      <section>
       <h2>EDUCATION</h2>
